@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python modules
 - 💞️ I’m looking to collaborate on @AkarshNuthangi
 - 📫 How to reach me on is nothing
-- 😄 Pronouns: Coding guy
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: My coding journey started through a 5-day coding bootcamp
 
 <!---
